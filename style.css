@@ -18,6 +18,7 @@ h1,p{
     height: 625px;
     width: 100%;
     background: wheat;
+    overflow: hidden;
 }
 .b{
     background: black;
