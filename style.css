@@ -37,6 +37,8 @@ h1,p{
 
 .imgu{
     position: fixed;
+    display: flex;
+    flex-direction: column;
     top: 50%;
     left: 50%;
     z-index: -1;
