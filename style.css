@@ -11,7 +11,7 @@ h1,p{
 }
 .ad{
     height: 365px;
-    width: 100%;
+    width: 400px;
     background: transparent;
 }
 .a,.b,.c,.d,.e{
@@ -37,8 +37,10 @@ h1,p{
 
 .imgu{
     position: fixed;
-    top: 35%;
-    left: 27%;
+    top: 50%;
+    left: 50%;
     z-index: -1;
+    margin-top: -200px;
+    margin-left: -200px;
 }
 
