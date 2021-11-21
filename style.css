@@ -1,7 +1,43 @@
-
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     user-select: none;
 }
+h1,p{
+    margin: 0;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.ad{
+    height: 365px;
+    width: 100%;
+    background: transparent;
+}
+.a,.b,.c,.d,.e{
+    height: 625px;
+    width: 100%;
+    background: wheat;
+}
+.b{
+    background: black;
+    color: aliceblue;
+}
+.c{
+    background: goldenrod;
+}
+.d{
+    background: rosybrown;
+    color: #ebe0d3;
+}
+.e{
+    background: lightseagreen;
+}
+
+.imgu{
+    position: fixed;
+    top: 35%;
+    left: 37%;
+    z-index: -1;
+}
+
